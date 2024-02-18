@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Fideliii
-- 👀 I’m interested in Data Science and Quantum Computing
+- 🎹 I’m interested in Data Science and Quantum Computing
+    - 🎮 Also Hoyoverse Gacha
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to work part-time as a remote data-entry clerk
 - 📫 Email me at fidelacordoniii@gmail.com
