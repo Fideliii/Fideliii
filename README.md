@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to work part-time as a remote data-entry clerk
 - 📫 Email me at fidelacordoniii@gmail.com
-- ⚡ Fun fact: I've barely scratched the surface of my career interests.
+- ⚡ Fun fact: I don't know what I'm doing
 
 <!---
 Fideliii/Fideliii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
